@@ -10,4 +10,13 @@
 
 @implementation juziSDK
 
++(void)printB
+{
+    NSLog(@"testB");
+}
+-(void)printA
+{
+    NSLog(@"testA");
+}
+
 @end
